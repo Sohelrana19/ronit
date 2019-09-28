@@ -1,0 +1,109 @@
+/* extra small device */
+@media(max-width:575px){
+.classroomhover {
+	margin-bottom: 20px;
+}
+.classroomhovertwo {
+	margin-bottom: 20px;
+}
+.about-banner-text h3 {
+	font-size: 25px;
+}
+.newscard {
+	margin-bottom: 15px;
+}
+.playgroup-left img {
+	width: 100%;
+}
+.playgrouptwo ul li {
+	padding-right: 0px;
+	border-right: 1px solid transparent;
+}
+.apps-mobil img {
+	margin-left: 0px;
+	width: 100%;
+}
+.calender-up {
+	margin-bottom: 15px;
+}
+.calender h3 {
+	margin-top: -25px;
+}
+.gallaryimg-right {
+	margin-top: 15px;
+	margin-left: -15px;
+}
+.kindergarten {
+	margin-left: -15px;
+}
+.kindergartenlast{
+	margin-right: -15px;
+}
+.side-menu {
+	display: none;
+}
+.faunded {
+	margin-bottom: 30px;
+}
+.instdetails {
+	margin-left: 33px;
+}
+.teacher-image img {
+	width: 100%;
+}
+.admissionprocess p {
+	padding: 0 0px;
+}
+.admissionone {
+	height: 100%;
+	top: 15%;
+}
+.transcript {
+	padding: 1px 50px;
+}
+.resume {
+	padding: 0px 62px;
+}
+.Certificate {
+	padding: 1px 77px;
+}
+.teacher-susan-image {
+	margin-bottom: 55px;
+}
+.teacher-susan-name {
+	padding: 3px 82px 31px 38px;
+	bottom: 13px;
+	left: 44px;
+}
+.studentbuttonsearch a {
+	padding: 13px 135px;
+}
+.student-image {
+	margin-bottom: 15px;
+}
+.acadimictable tbody tr {
+	font-size: 12px;
+	border: 1px solid #999;
+}
+.contact {
+	margin-bottom: 10px;
+}
+.contactlist {
+	padding: 60px 25px;
+}
+.address-contact {
+	margin-bottom: 15px;
+}
+}
+
+
+/* small device */
+@media(min-width:576px) and (max-width:767px){
+ 
+}
+
+
+/* medium device */
+@media(min-width:768px) and (max-width:991px){
+    
+}
